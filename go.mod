@@ -1,11 +1,11 @@
 module github.com/go-directory/util
 
-go 1.26.7
+go 1.27.2
 
 require (
-	github.com/go-directory/common v0.0.0-20261011092812-ee1a68d2b0cb // indirect
-	github.com/go-directory/encoding v0.0.0-20261011092854-e58281c8ca90 // indirect
-	github.com/go-directory/protocol v0.0.0-20261011093255-e745a7582e8c // indirect
-	github.com/go-directory/syntax v0.0.0-20261011093021-e981ae498c2c // indirect
+	github.com/go-directory/common v0.0.0-20261015062816-e8d71838f720 // indirect
+	github.com/go-directory/encoding v0.0.0-20261015063109-52bfbd1e4011 // indirect
+	github.com/go-directory/protocol v0.0.0-20261015063503-5d25d8a5e013 // indirect
+	github.com/go-directory/syntax v0.0.0-20261015063208-e3542debb539 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 )
