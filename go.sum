@@ -12,6 +12,8 @@ github.com/go-directory/common v0.0.0-20261011092812-ee1a68d2b0cb h1:RXlaLD3QXih
 github.com/go-directory/common v0.0.0-20261011092812-ee1a68d2b0cb/go.mod h1:38wymd8zkOxcZC/oRKK8a82xopDQRSz42XTd97NKgqg=
 github.com/go-directory/common v0.0.0-20261015062816-e8d71838f720 h1:uwCCK+kkiae+MQ2SGmztUr20oIGOjA47X0hNXqW11aU=
 github.com/go-directory/common v0.0.0-20261015062816-e8d71838f720/go.mod h1:PFlbjODkcvDFXO8FZU+WFvq4ThT7cErjxdY6VrAol74=
+github.com/go-directory/config v0.0.0-20261016123140-c6397e3b452f h1:i8fmQAdQxt0cSHkDkp/04w8kBsrijhAYavvdFJ5Yjqs=
+github.com/go-directory/config v0.0.0-20261016123140-c6397e3b452f/go.mod h1:RZg+hGwNgvPSkDnj7w4tffqD+bLP2utUOFBgsIeneeE=
 github.com/go-directory/encoding v0.0.0-20260928073724-d80a838a63a3 h1:uE44jkrClE03IdczH3e/HTxJ7B9xaoXhT+VCCbxQuMk=
 github.com/go-directory/encoding v0.0.0-20260928073724-d80a838a63a3/go.mod h1:NRZq+NMGfylMpmFz8r4FUPPn+iVctkT3D3fahb5XLOg=
 github.com/go-directory/encoding v0.0.0-20261011071436-d49e92f5b4a9 h1:uMIh8y1xaUJbtli6xlfwdU0asQJgupsb7BJvOEHl8L4=
@@ -36,6 +38,10 @@ github.com/go-directory/protocol v0.0.0-20261011093255-e745a7582e8c h1:ujVI7Vko8
 github.com/go-directory/protocol v0.0.0-20261011093255-e745a7582e8c/go.mod h1:8AU0MIQrlmoyC6+cHrCLWp4JXXoCAQMx2JTQvK3pyZA=
 github.com/go-directory/protocol v0.0.0-20261015063503-5d25d8a5e013 h1:wB/sEogFBVtormiK+G1B0Rv1x4FT+b4O0E044lMcl20=
 github.com/go-directory/protocol v0.0.0-20261015063503-5d25d8a5e013/go.mod h1:6UQ8aYPPBqChGJwMCSG6uRNkcCMWbRrZ9AIkdsZ2v+s=
+github.com/go-directory/protocol v0.0.0-20261016105657-1710b746b676 h1:/S9qoT204lQJNHDF3xWpHjq/EY/MZdPKdiYjNvk9jKo=
+github.com/go-directory/protocol v0.0.0-20261016105657-1710b746b676/go.mod h1:6UQ8aYPPBqChGJwMCSG6uRNkcCMWbRrZ9AIkdsZ2v+s=
+github.com/go-directory/protocol v0.0.0-20261016122910-39b963d94649 h1:RZ2WxCe9nlrjEdKeKu+VAMPstz5Miu0P9pF12LTnd34=
+github.com/go-directory/protocol v0.0.0-20261016122910-39b963d94649/go.mod h1:6UQ8aYPPBqChGJwMCSG6uRNkcCMWbRrZ9AIkdsZ2v+s=
 github.com/go-directory/syntax v0.0.0-20261002045719-67b83129ca84 h1:MgNYrIQUBMmCPNkLPQFLjyxUD/CZ7Pui/6w2Aa7CXUw=
 github.com/go-directory/syntax v0.0.0-20261002045719-67b83129ca84/go.mod h1:4JWNZhf5jx+o3mXQT1vWKlNxTp9940LEhP79woBocrQ=
 github.com/go-directory/syntax v0.0.0-20261011063821-f89491710870 h1:axALm2++ith+5XdSTd2mepG5Ndsaz3idb/156sQHq+o=
