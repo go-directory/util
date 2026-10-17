@@ -4,5 +4,7 @@ github.com/go-directory/encoding v0.0.0-20261015063109-52bfbd1e4011 h1:A1alVnROV
 github.com/go-directory/encoding v0.0.0-20261015063109-52bfbd1e4011/go.mod h1:CbGTrNCfq1900o2HjDX7796Lr+UkCRS29cgZsf1r3Yo=
 github.com/go-directory/protocol v0.0.0-20261017000412-6905956568b5 h1:iVnI+um+Sn8ln2p5SH6o57Np7gJ92mFukrYC51QtJE0=
 github.com/go-directory/protocol v0.0.0-20261017000412-6905956568b5/go.mod h1:zJM6Uh35gKhI55PO4RWxaGczfceMpQi8kKfrQQ9ol/U=
+github.com/go-directory/protocol v0.0.0-20261017091634-447280fbf4f2 h1:gTdhoQ217TmHgYMWtt5VEpTkkhE10FrcVbCNbzbZgUE=
+github.com/go-directory/protocol v0.0.0-20261017091634-447280fbf4f2/go.mod h1:zJM6Uh35gKhI55PO4RWxaGczfceMpQi8kKfrQQ9ol/U=
 github.com/go-directory/syntax v0.0.0-20261016235948-e733eba07a71 h1:8Adjx30EbXPCOeFmIlY+az7WhLiw6uEXNfwft6Mg/7g=
 github.com/go-directory/syntax v0.0.0-20261016235948-e733eba07a71/go.mod h1:y2RfrFAAAqzhtvTy47aQjw3UOLAIUnmnt7Sk7Lz7KMM=
