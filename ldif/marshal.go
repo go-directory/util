@@ -3,8 +3,8 @@ package ldif
 import (
 	"encoding/base64"
 	"io"
-	"strings"
 	"strconv"
+	"strings"
 )
 
 const foldWidth = 76

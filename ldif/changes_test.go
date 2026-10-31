@@ -1,8 +1,8 @@
 package ldif_test
 
 import (
-	"testing"
 	"github.com/go-directory/util/ldif"
+	"testing"
 )
 
 var ldifRFC2849Example6 = `version: 1
