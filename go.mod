@@ -3,9 +3,9 @@ module github.com/go-directory/util
 go 1.27.2
 
 require (
-	github.com/go-directory/common v0.0.0-20261019055452-0b69be22f6a2
-	github.com/go-directory/protocol v0.0.0-20261019064857-a96dd74275cf
-	github.com/go-directory/syntax v0.0.0-20261019063121-bddc81f6c6f8
+	github.com/go-directory/common v0.0.0-20261030234857-b34d61401f03
+	github.com/go-directory/protocol v0.0.0-20261031081546-d4d7d6e84cf0
+	github.com/go-directory/syntax v0.0.0-20261031034539-31395ba103f3
 )
 
-require github.com/go-directory/encoding v0.0.0-20261019062442-b8834f4360e7 // indirect
+require github.com/go-directory/encoding v0.0.0-20261031020309-6a83b7f53a3f // indirect
